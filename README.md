@@ -21,10 +21,6 @@ Skills: Python | R | TensorFlow | MLflow | MLOps | DevOps | Keras | GitLab CI/CD
 ![Profile views](https://gpvc.arturio.dev/Fortunatetech)  
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayodele ayodeji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayodele ayodeji" height="30" width="40" /></a>
 <p align="left">
   <h3 align="left">Languages and Tools:</h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
