@@ -1,6 +1,7 @@
+(https://www.linkedin.com/in/ayo-ayodeji/overlay/background-image/)
 ### Hi there 👋, my name is Ayodele Ayodeji
 #### I am an experienced ML/DL/AI Engr.
-![I am an experienced ML/DL/AI Engr.](https://www.linkedin.com/in/ayo-ayodeji/overlay/background-image/)
+![I am an experienced ML/DL/AI Engr.]
 
 Experienced Data Scientist with 5+ years in AI development, adept at handling complex data for tailored solutions. Committed to continuous learning, excels in problem-solving, and proficient in Python, R, TensorFlow, Keras, and SQL.
 
