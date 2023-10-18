@@ -15,7 +15,10 @@ Experienced Data Scientist with 5+ years in designing, developing, deploying and
 - 📫 How to reach me **ayodeleayodeji@gmail.com**
 
 ### Example of works
-[streamlitapp demo.webm](https://github.com/Fortunatetech/Diabetes-Prediction-with-Deployment-Using-flask-streamlit-DVC/assets/104451288/df4bb618-fc71-45dc-925d-1f4a289c1b06)
+<video width="320" height="240" controls>
+  <source src="https://github.com/Fortunatetech/Diabetes-Prediction-with-Deployment-Using-flask-streamlit-DVC/raw/main/assets/104451288/df4bb618-fc71-45dc-925d-1f4a289c1b06/streamlitapp%20demo.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fortunatetech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayo-ayodeji/)  
 
