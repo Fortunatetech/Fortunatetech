@@ -1,6 +1,6 @@
-![I am an experienced ML/DL/AI Engr.](https://media.licdn.com/dms/image/D4D16AQFDQlMCNPye8A/profile-displaybackgroundimage-shrink_350_1400/0/1697554655620?e=1703116800&v=beta&t=H8uKrS5xDBFokuvojrlS_Dw5lKfJfuAj5vojB8m3IfE)
-
 ### Hi there 👋, I'am Ayodele Ayodeji
+
+![I am an experienced ML/DL/AI Engr.](https://media.licdn.com/dms/image/D4D16AQFDQlMCNPye8A/profile-displaybackgroundimage-shrink_350_1400/0/1697554655620?e=1703116800&v=beta&t=H8uKrS5xDBFokuvojrlS_Dw5lKfJfuAj5vojB8m3IfE)
 
 Experienced Data Scientist with 5+ years in designing, developing, deploying and maintaining machine learning pipelines and AI solutions, adept at handling complex data for tailored solutions. Committed to continuous learning, excels in problem-solving, and proficient in Python, R, TensorFlow, Keras, and SQL.
 
@@ -12,7 +12,7 @@ Experienced Data Scientist with 5+ years in designing, developing, deploying and
 - 💬 Ask me about End to End lifecycle of AI application solutions
 - 📫 How to reach me **ayodeleayodeji@gmail.com**
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fortunatetech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayo-ayodeji/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Ayo_dataanalyst)  
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fortunatetech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayo-ayodeji/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Ayo_dataanalyst)  
 
 ### Example of works
 [streamlitapp demo.webm](https://github.com/Fortunatetech/Diabetes-Prediction-with-Deployment-Using-flask-streamlit-DVC/assets/104451288/df4bb618-fc71-45dc-925d-1f4a289c1b06)
