@@ -3,7 +3,7 @@
 
 ![I am an experienced ML/DL/AI Engr.](https://media.licdn.com/dms/image/D4D16AQFDQlMCNPye8A/profile-displaybackgroundimage-shrink_350_1400/0/1697554655620?e=1703116800&v=beta&t=H8uKrS5xDBFokuvojrlS_Dw5lKfJfuAj5vojB8m3IfE)
 
-Experienced Data Scientist with 5+ years in designing, developing, deploying and maintaining machine learning pipelines and AI applications, adept at handling complex data for tailored solutions. Committed to continuous learning, excels in problem-solving, and proficient in Python, R, TensorFlow, Keras, and SQL.
+Experienced Data Scientist with 4+ years in designing, developing, deploying and maintaining machine learning pipelines and AI applications, adept at handling complex data for tailored solutions. Committed to continuous learning, excels in problem-solving, and proficient in Python, R, TensorFlow, Keras, and SQL.
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
