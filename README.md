@@ -17,11 +17,6 @@ expertise in programming languages such as Python, R, and Java
   
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fortunatetech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayo-ayodeji/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Ayo_dataanalyst)  
 
-### Example of works
-[streamlitapp demo.webm](https://github.com/Fortunatetech/Diabetes-Prediction-with-Deployment-Using-flask-streamlit-DVC/assets/104451288/df4bb618-fc71-45dc-925d-1f4a289c1b06)
-
-[Checkout the streamlit diabetes prediction app here ](https://diabetes-prediction-web-app.streamlit.app/)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunatetech)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fortunatetech&show_icons=true)  
